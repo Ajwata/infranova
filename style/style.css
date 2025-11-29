@@ -704,11 +704,7 @@ body.menu-open .mobile-toggle {
   height: 100%;
 }
 
-@media (min-width: 768px) {
-  .hero-content-impact {
-    padding-top: 100px;
-  }
-}
+
 
 .hero-badge-glass {
   display: inline-block;
