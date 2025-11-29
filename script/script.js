@@ -48,7 +48,11 @@ const translations = {
             },
             construction: {
                 title: "General Construction",
-                desc: "Construction \"from scratch\": from laying the foundation to the erection of target protective objects. Complex repair and reconstruction."
+                desc: "Construction \"from scratch\": from laying the foundation to the erection of target protective objects. Complex repair and reconstruction of administrative buildings, facades and roofs."
+            },
+            reconstruction: {
+                title: "Reconstruction",
+                desc: "Our priority is the restoration of damaged or destroyed property as a result of military aggression. We return life to destroyed objects."
             }
         },
         projects: {
@@ -66,8 +70,12 @@ const translations = {
             title: "Contact Us",
             subtitle: "Trust us with the most complex, and we will build a reliable future.",
             address: "Kyiv, Ukraine",
+            office: "Kyiv, Povitryanyh Syl Ave., 38, office 16",
+            postal: "03186, Ukraine",
             phone: "+38 (097) 651-03-89",
+            hours: "Mon-Fri, 9:00-18:00",
             email: "info@infranova.com",
+            writeUs: "Write to us!",
             form: {
                 name: "Name",
                 email: "Email",
@@ -76,7 +84,53 @@ const translations = {
             }
         },
         footer: {
-            rights: "© 2025 INFRANOVA. All rights reserved."
+            rights: "© 2025 INFRANOVA. All rights reserved.",
+            contactAddress: "Kyiv, Povitryanyh Syl Ave., 38, office 16",
+            contactPhone: "+38 (097) 651-03-89",
+            contactEmail: "info@infranova.com",
+            requisitesTitle: "Requisites",
+            requisites: {
+                item1: "LLC \"INFRANOVA\"",
+                item2: "EDRPOU: 38354283",
+                item3: "LLC INFRANOVA"
+            }
+        },
+        about: {
+            sectionTitle: "About Company",
+            pageTitle: "Construction that covers the entire cycle and ahead of time",
+            text1: "Company \"Infranova\" is your reliable partner in the implementation of construction projects of any complexity. We offer a complete cycle of works: from an innovative idea and design to the delivery of an object into operation.",
+            text2: "LLC \"INFRANOVA\" specializes in the implementation of infrastructure and engineering projects of increased complexity. Our expertise covers all stages in strict accordance with international quality and safety standards."
+        },
+        qualifications: {
+            title: "Qualifications and Permits",
+            desc: "The company has all the necessary licenses and permits for construction activities. We pay special attention to professional development: all employees regularly undergo training and receive certificates confirming their high qualifications in their fields.",
+            licenses: "Licenses and Permits",
+            licensesDesc: "Complete package of documents for construction activities",
+            specialists: "Certified Specialists",
+            specialistsDesc: "Regular training and professional development",
+            standards: "European Standards",
+            standardsDesc: "Work complies with international quality standards"
+        },
+        faq: {
+            title: "Frequently Asked Questions",
+            subtitle: "Answers to the most common questions about our work",
+            q1: "What types of work does INFRANOVA company perform?",
+            a1: "We specialize in the full cycle of construction works: design and engineering expertise, construction of critical infrastructure (water pipelines, bomb shelters), municipal facilities (schools, hospitals, kindergartens), bridge repairs, as well as reconstruction of objects damaged as a result of military aggression.",
+            q2: "In which regions of Ukraine do you work?",
+            a2: "INFRANOVA works throughout Ukraine. Our main projects are implemented in Kyiv, Kharkiv, Dnipropetrovsk regions and in the Southern region. We are ready to consider projects in any corner of the country.",
+            q3: "Do you have all the necessary licenses and permits?",
+            a3: "Yes, the company has all the necessary licenses and permits for construction activities. All our employees regularly undergo training and have the appropriate certificates confirming their qualifications.",
+            q4: "How is cooperation with the customer carried out?",
+            a4: "We offer a complete cycle: from the first consultation and concept development to the delivery of the object \"turnkey\". At each stage, you receive a detailed report on the progress of work. Our project department ensures coordination of documentation with all necessary authorities.",
+            q5: "Do you work with European quality standards?",
+            a5: "Yes, our work fully complies with European quality standards. This is confirmed by successful cooperation with European partners who actively work in the EU. We use modern technologies and materials of the highest quality.",
+            q6: "How to contact the company to discuss a project?",
+            a6: "Contact us by phone +38 (097) 651-03-89 or send a request to info@infranova.com. Our office is located at: Kyiv, Povitryanyh Syl Ave., 38, office 16. We work Mon-Fri 9:00 to 18:00."
+        },
+        projectsPage: {
+            title: "Our Projects",
+            subtitle: "Geography and Partnership",
+            desc: "\"Infranova\" works throughout Ukraine, participating in key construction projects in Kyiv, Kharkiv, Dnipro regions and in the Southern region. Our work complies with European quality standards, which is confirmed by cooperation with European partners who actively work in the EU."
         }
     },
     uk: {
@@ -128,7 +182,11 @@ const translations = {
             },
             construction: {
                 title: "Загальне Будівництво",
-                desc: "Будівництво \"з нуля\": від закладки фундаменту до зведення цільових захисних об'єктів. Комплексний ремонт та реконструкція."
+                desc: "Будівництво \"з нуля\": від закладки фундаменту до зведення цільових захисних об'єктів. Комплексний ремонт та реконструкція адміністративних будівель, фасадів та покрівель."
+            },
+            reconstruction: {
+                title: "Відбудова",
+                desc: "Окремим пріоритетом є відновлення пошкодженого або зруйнованого майна внаслідок військової агресії. Повертаємо життя до зруйнованих об'єктів."
             }
         },
         projects: {
@@ -146,8 +204,12 @@ const translations = {
             title: "Зв'язатися з нами",
             subtitle: "Довірте нам найскладніше, і ми побудуємо надійне майбутнє.",
             address: "Київ, Україна",
+            office: "м. Київ, пр. Повітряних Сил, 38, оф. 16",
+            postal: "03186, Україна",
             phone: "+38 (097) 651-03-89",
+            hours: "Пн-Пт, 9:00-18:00",
             email: "info@infranova.com",
+            writeUs: "Напишіть нам!",
             form: {
                 name: "Ім'я",
                 email: "Email",
@@ -156,7 +218,53 @@ const translations = {
             }
         },
         footer: {
-            rights: "© 2025 ІНФРАНОВА. Всі права захищені."
+            rights: "© 2025 ІНФРАНОВА. Всі права захищені.",
+            contactAddress: "м. Київ, пр. Повітряних Сил, 38, оф. 16",
+            contactPhone: "+38 (097) 651-03-89",
+            contactEmail: "info@infranova.com",
+            requisitesTitle: "Реквізити",
+            requisites: {
+                item1: "ТОВ \"ІНФРАНОВА\"",
+                item2: "ЄДРПОУ: 38354283",
+                item3: "LLC INFRANOVA"
+            }
+        },
+        about: {
+            sectionTitle: "Про Компанію",
+            pageTitle: "Будівництво, що охоплює весь цикл та випереджає час",
+            text1: "Компанія \"Інфранова\" — це ваш надійний партнер у реалізації будівельних проєктів будь-якої складності. Ми пропонуємо повний замкнений цикл робіт: від інноваційної ідеї та проєктування до здачі об'єкта в експлуатацію.",
+            text2: "ТОВ «ІНФРАНОВА» спеціалізується на реалізації інфраструктурних та інженерних проєктів підвищеної складності. Наша експертиза охоплює всі етапи у суворій відповідності до міжнародних стандартів якості та безпеки."
+        },
+        qualifications: {
+            title: "Кваліфікація та Дозволи",
+            desc: "Компанія має всі необхідні ліцензії та дозволи для проведення будівельної діяльності. Ми приділяємо особливу увагу професійному розвитку: всі співробітники регулярно проходять навчання та отримують посвідчення, що підтверджують їхню високу кваліфікацію за своїми напрямками.",
+            licenses: "Ліцензії та дозволи",
+            licensesDesc: "Повний пакет документів для будівельної діяльності",
+            specialists: "Сертифіковані спеціалісти",
+            specialistsDesc: "Регулярне навчання та підвищення кваліфікації",
+            standards: "Європейські стандарти",
+            standardsDesc: "Робота відповідає міжнародним нормам якості"
+        },
+        faq: {
+            title: "Часті Запитання",
+            subtitle: "Відповіді на найпоширеніші питання про нашу роботу",
+            q1: "Які види робіт виконує компанія ІНФРАНОВА?",
+            a1: "Ми спеціалізуємося на повному циклі будівельних робіт: проєктування та інженерна експертиза, будівництво критичної інфраструктури (водопроводи, бомбосховища), муніципальних об'єктів (школи, лікарні, дитсадки), ремонт мостів, а також відбудова об'єктів, пошкоджених внаслідок військової агресії.",
+            q2: "В яких регіонах України ви працюєте?",
+            a2: "ІНФРАНОВА працює по всій Україні. Наші основні проєкти реалізуються у Київській, Харківській, Дніпропетровській областях та в Південному регіоні. Ми готові розглянути проєкти в будь-якому куточку країни.",
+            q3: "Чи маєте ви всі необхідні ліцензії та дозволи?",
+            a3: "Так, компанія має всі необхідні ліцензії та дозволи для проведення будівельної діяльності. Всі наші співробітники регулярно проходять навчання та мають відповідні посвідчення, що підтверджують їхню кваліфікацію.",
+            q4: "Як відбувається співпраця з замовником?",
+            a4: "Ми пропонуємо повний замкнений цикл: від першої консультації та розробки концепції до здачі об'єкта \"під ключ\". На кожному етапі ви отримуєте детальний звіт про хід робіт. Наш проєктний відділ забезпечує узгодження документації з усіма необхідними інстанціями.",
+            q5: "Чи працюєте ви з європейськими стандартами якості?",
+            a5: "Так, наша робота повністю відповідає європейським стандартам якості. Це підтверджується успішною співпрацею з європейськими партнерами, які активно працюють в ЄС. Ми використовуємо сучасні технології та матеріали найвищої якості.",
+            q6: "Як зв'язатися з компанією для обговорення проєкту?",
+            a6: "Зв'яжіться з нами за телефоном +38 (097) 651-03-89 або надішліть запит на email info@infranova.com. Наш офіс знаходиться за адресою: м. Київ, пр. Повітряних Сил, 38, оф. 16. Ми працюємо Пн-Пт з 9:00 до 18:00."
+        },
+        projectsPage: {
+            title: "Наші Проєкти",
+            subtitle: "Географія та Партнерство",
+            desc: "\"Інфранова\" працює по всій Україні, беручи участь у ключових будівельних проєктах у Київській, Харківській, Дніпровській областях та в Південному регіоні. Наша робота відповідає європейським стандартам якості, що підтверджується співпрацею з європейськими партнерами, які активно працюють в ЄС."
         }
     }
 };
