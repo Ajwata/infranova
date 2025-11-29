@@ -162,6 +162,38 @@ const translations = {
 };
 
 document.addEventListener('DOMContentLoaded', () => {
+    // Preloader
+    const preloader = document.querySelector('.preloader');
+    if (preloader) {
+        window.addEventListener('load', () => {
+            setTimeout(() => {
+                preloader.classList.add('hidden');
+            }, 1000);
+        });
+        
+        // Fallback - hide after 3 seconds max
+        setTimeout(() => {
+            preloader.classList.add('hidden');
+        }, 3000);
+    }
+
+    // FAQ Accordion
+    const faqItems = document.querySelectorAll('.faq-item');
+    faqItems.forEach(item => {
+        const question = item.querySelector('.faq-question');
+        question.addEventListener('click', () => {
+            const isActive = item.classList.contains('active');
+            
+            // Close all items
+            faqItems.forEach(i => i.classList.remove('active'));
+            
+            // Open clicked item if it wasn't active
+            if (!isActive) {
+                item.classList.add('active');
+            }
+        });
+    });
+
     // Language Switcher
     let currentLang = localStorage.getItem('lang') || 'uk';
     const langBtns = document.querySelectorAll('.lang-btn');
