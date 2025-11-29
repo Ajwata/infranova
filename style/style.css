@@ -695,7 +695,7 @@ body.menu-open .mobile-toggle {
   z-index: 2;
   width: 100%;
   max-width: 1600px;
-  padding: 0 5%;
+  padding: 1.5rem;
   padding-top: 6rem;
   color: white;
   display: flex;
