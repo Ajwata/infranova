@@ -74,7 +74,7 @@ const translations = {
             postal: "03186, Ukraine",
             phone: "+38 (097) 651-03-89",
             hours: "Mon-Fri, 9:00-18:00",
-            email: "info@infranova.com",
+            email: "infranova.office.comp@gmail.com",
             writeUs: "Write to us!",
             form: {
                 name: "Name",
@@ -87,7 +87,7 @@ const translations = {
             rights: "© 2025 INFRANOVA. All rights reserved.",
             contactAddress: "Kyiv, Povitryanyh Syl Ave., 38, office 16",
             contactPhone: "+38 (097) 651-03-89",
-            contactEmail: "info@infranova.com",
+            contactEmail: "infranova.office.comp@gmail.com",
             requisitesTitle: "Requisites",
             requisites: {
                 item1: "LLC \"INFRANOVA\"",
@@ -125,7 +125,7 @@ const translations = {
             q5: "Do you work with European quality standards?",
             a5: "Yes, our work fully complies with European quality standards. This is confirmed by successful cooperation with European partners who actively work in the EU. We use modern technologies and materials of the highest quality.",
             q6: "How to contact the company to discuss a project?",
-            a6: "Contact us by phone +38 (097) 651-03-89 or send a request to info@infranova.com. Our office is located at: Kyiv, Povitryanyh Syl Ave., 38, office 16. We work Mon-Fri 9:00 to 18:00."
+            a6: "Contact us by phone +38 (097) 651-03-89 or send a request to infranova.office.comp@gmail.com. Our office is located at: Kyiv, Povitryanyh Syl Ave., 38, office 16. We work Mon-Fri 9:00 to 18:00."
         },
         projectsPage: {
             title: "Our Projects",
@@ -208,7 +208,7 @@ const translations = {
             postal: "03186, Україна",
             phone: "+38 (097) 651-03-89",
             hours: "Пн-Пт, 9:00-18:00",
-            email: "info@infranova.com",
+            email: "infranova.office.comp@gmail.com",
             writeUs: "Напишіть нам!",
             form: {
                 name: "Ім'я",
@@ -221,7 +221,7 @@ const translations = {
             rights: "© 2025 ІНФРАНОВА. Всі права захищені.",
             contactAddress: "м. Київ, пр. Повітряних Сил, 38, оф. 16",
             contactPhone: "+38 (097) 651-03-89",
-            contactEmail: "info@infranova.com",
+            contactEmail: "infranova.office.comp@gmail.com",
             requisitesTitle: "Реквізити",
             requisites: {
                 item1: "ТОВ \"ІНФРАНОВА\"",
@@ -259,7 +259,7 @@ const translations = {
             q5: "Чи працюєте ви з європейськими стандартами якості?",
             a5: "Так, наша робота повністю відповідає європейським стандартам якості. Це підтверджується успішною співпрацею з європейськими партнерами, які активно працюють в ЄС. Ми використовуємо сучасні технології та матеріали найвищої якості.",
             q6: "Як зв'язатися з компанією для обговорення проєкту?",
-            a6: "Зв'яжіться з нами за телефоном +38 (097) 651-03-89 або надішліть запит на email info@infranova.com. Наш офіс знаходиться за адресою: м. Київ, пр. Повітряних Сил, 38, оф. 16. Ми працюємо Пн-Пт з 9:00 до 18:00."
+            a6: "Зв'яжіться з нами за телефоном +38 (097) 651-03-89 або надішліть запит на email infranova.office.comp@gmail.com. Наш офіс знаходиться за адресою: м. Київ, пр. Повітряних Сил, 38, оф. 16. Ми працюємо Пн-Пт з 9:00 до 18:00."
         },
         projectsPage: {
             title: "Наші Проєкти",
